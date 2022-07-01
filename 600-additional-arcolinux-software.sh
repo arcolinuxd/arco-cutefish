@@ -56,6 +56,7 @@ func_category Arcolinux-Desktop
 
 list=(
 arcolinux-cutefish-git
+arcolinux-config-all-desktops-git
 )
 
 count=0
